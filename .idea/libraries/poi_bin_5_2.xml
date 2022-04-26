@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="poi-bin-5.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.2/ooxml-lib/commons-compress-1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.2/ooxml-lib/curvesapi-1.07.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.2/ooxml-lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.2/ooxml-lib/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.2/ooxml-lib/xmlbeans-5.0.3.jar!/" />
+      <root url="file://$PROJECT_DIR$/poi-bin-5.2.2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/poi-bin-5.2.2" recursive="false" />
+  </library>
+</component>
